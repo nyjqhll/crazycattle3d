@@ -4,6 +4,8 @@
 
 [Crazy Cattle 3D Patreon Post](https://www.patreon.com/posts/crazy-cattle-3d-127343689) | [Website](https://crazycattle3d.cc/) | [Twitch Channel](https://m.twitch.tv/crazycattle3dcc)
 
+![Crazy Cattle 3D](https://github.com/nyjqhll/crazycattle3d/raw/main/00.png)
+
 ## What is Crazy Cattle 3D?
 
 Crazy Cattle 3D is an indie physics-driven battle royale game that puts a hilarious and fresh spin on competitive multiplayer gaming. Instead of traditional weapons or upgrades, players control explosive sheep and rely solely on physics, momentum, and timing to outmaneuver and knock opponents off the map. The result is a fast-paced, skill-based combat experience that’s as unpredictable as it is entertaining.
